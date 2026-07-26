@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Fibonacci Spiral Algorithm (v6B)"
+message: "If you use this work, please cite this repository."
+authors:
+  - family-names: "Sensufrog"
+version: "v6B"
+date-released: "2026-06"
+license: "Apache-2.0"
