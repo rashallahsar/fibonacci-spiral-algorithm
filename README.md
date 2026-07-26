@@ -32,7 +32,11 @@ These ideas motivated the algorithm's geometric design. Performance claims are b
 
 ## Documentation
 
-See **Fibonacci_Spiral_v6B_FINAL_VERIFIED.pdf** for:
+See the research paper:
+
+[Fibonacci Spiral v6B Verification Paper](docs/fibospifinalri.pdf)
+
+The paper includes:
 
 * Independent verification
 * Benchmark methodology
@@ -42,7 +46,6 @@ See **Fibonacci_Spiral_v6B_FINAL_VERIFIED.pdf** for:
 * Reproducibility notes
 
 The earlier "coverage efficiency 0.67–0.70" metric has been withdrawn because it does not correspond to the published v6B implementation.
-
 ## Research Status
 
 * Original research
